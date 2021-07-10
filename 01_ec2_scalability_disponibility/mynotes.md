@@ -39,7 +39,7 @@ Important stop the instance used as model to the image, avoiding malformed image
 
 Basic Concept:
 
-![Example](01_ec2_scalability_disponibility/images.md/concept_load_balance_auto_scalling.png)
+![Example](https://github.com/antonioChristofoletti/course-alura-aws/blob/master/01_ec2_scalability_disponibility/images.md/concept_load_balance_auto_scalling.png)
 
 Ultra simplified concepts:
 
